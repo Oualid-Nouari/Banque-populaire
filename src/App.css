@@ -682,6 +682,10 @@ footer .buttons .footer-link:hover > h4, footer .buttons .footer-link:hover > .i
   main .main-pic-cont .main-pic {
     margin: 0 auto;
   }
+  .main-infos a {
+    margin-left: auto;
+    margin-right: auto;
+  }
   .main-left {
     width: 100%;
   }
