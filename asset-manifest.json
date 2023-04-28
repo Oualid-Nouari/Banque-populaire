@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Banque-populaire/static/css/main.226ca7f5.css",
+    "main.css": "/Banque-populaire/static/css/main.48ce8691.css",
     "main.js": "/Banque-populaire/static/js/main.e0d8373c.js",
     "static/media/bp-app.png": "/Banque-populaire/static/media/bp-app.3e114b2b4febfd798140.png",
     "index.html": "/Banque-populaire/index.html",
-    "main.226ca7f5.css.map": "/Banque-populaire/static/css/main.226ca7f5.css.map",
+    "main.48ce8691.css.map": "/Banque-populaire/static/css/main.48ce8691.css.map",
     "main.e0d8373c.js.map": "/Banque-populaire/static/js/main.e0d8373c.js.map"
   },
   "entrypoints": [
-    "static/css/main.226ca7f5.css",
+    "static/css/main.48ce8691.css",
     "static/js/main.e0d8373c.js"
   ]
 }
