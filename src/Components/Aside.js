@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 
-const Aside = () => {
-    const [openAside, setOpenAside] = useState(false)
+const Aside = ({ openAside, setOpenAside }) => {
     return (
         <aside className={openAside ? 'active' : ''}>
             <i class="fa-solid fa-bars-staggered" onClick={()=> setOpenAside(!openAside)}></i>
